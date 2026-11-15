@@ -1,0 +1,3 @@
+first_delivery,customers,repeaters,repeat_rate_pct,se_pct,repeat_after_delivery_pct,repeat_brl_per_customer,brl_per_repeater
+late,2563,42.0,1.64,0.25,1.37,2.7,164.94
+on_time,48472,979.0,2.02,0.06,1.85,3.23,160.02

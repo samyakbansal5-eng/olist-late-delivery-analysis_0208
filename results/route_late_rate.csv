@@ -1,0 +1,5 @@
+route,customer_region,orders,late_rate_pct,avg_promised_days,avg_actual_days
+cross state,North/Northeast/Centre-West customer,16242,10.2,30.9,18.7
+cross state,South/Southeast customer,45538,7.3,26.8,13.8
+same state,North/Northeast/Centre-West customer,222,5.4,17.4,7.3
+same state,South/Southeast customer,34468,4.5,18.2,7.9

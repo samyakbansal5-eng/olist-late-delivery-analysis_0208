@@ -1,0 +1,2 @@
+segment,seg_orders_12m,seg_new_customers_12m,seg_gmv_12m_brl,seg_late_rate_pct,sp_late_rate_pct,seg_avg_review,seg_repeat_rate_pct,review_gap_stratified,repeat_gap_low_pp,repeat_gap_mid_pp,repeat_gap_high_pp,brl_per_repeater_180d
+RJ,9345,9215,1553043.0,14.9,4.5,3.89,2.14,-1.928,-0.21,-0.38,-0.89,160.22

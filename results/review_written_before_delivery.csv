@@ -1,0 +1,3 @@
+delivery,orders_with_review,pct_review_before_delivery,avg_if_before,avg_if_after
+late,6381,74.5,1.84,3.53
+on_time,89443,0.3,3.94,4.29

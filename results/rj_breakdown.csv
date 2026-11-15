@@ -1,0 +1,7 @@
+customer_grp,period,orders,late_rate_pct,pct_shipped_from_sp,avg_promised_days
+RJ,other months,9595,6.6,66.0,27.5
+RJ,"peak months (Nov-17, Feb-18, Mar-18)",2755,31.2,68.0,25.4
+SP,other months,31993,3.6,76.0,19.9
+SP,"peak months (Nov-17, Feb-18, Mar-18)",8501,7.9,75.0,19.4
+other,other months,34036,4.7,67.0,28.2
+other,"peak months (Nov-17, Feb-18, Mar-18)",9590,16.9,69.0,26.9

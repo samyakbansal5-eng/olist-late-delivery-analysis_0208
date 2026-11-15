@@ -1,0 +1,10 @@
+scenario,late_pts_cut,effect_case,new_late_rate_pct,late_orders_avoided_12m,new_avg_review,repeat_rate_now_pct,repeat_rate_new_pct,extra_repeat_customers_12m,extra_repeat_revenue_brl_12m,pct_of_segment_gmv
+X = 3 pts,3.0,low,11.9,280.0,3.949,2.14,2.145,0.6,94.0,0.006
+X = 3 pts,3.0,mid,11.9,280.0,3.949,2.14,2.15,1.1,169.0,0.011
+X = 3 pts,3.0,high,11.9,280.0,3.949,2.14,2.165,2.5,393.0,0.025
+X = 5 pts,5.0,low,9.9,467.0,3.987,2.14,2.149,1.0,156.0,0.01
+X = 5 pts,5.0,mid,9.9,467.0,3.987,2.14,2.158,1.8,281.0,0.018
+X = 5 pts,5.0,high,9.9,467.0,3.987,2.14,2.183,4.1,656.0,0.042
+X = parity with SP,10.4,low,4.5,972.0,4.092,2.14,2.161,2.0,325.0,0.021
+X = parity with SP,10.4,mid,4.5,972.0,4.092,2.14,2.178,3.7,585.0,0.038
+X = parity with SP,10.4,high,4.5,972.0,4.092,2.14,2.231,8.5,1364.0,0.088
