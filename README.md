@@ -3,6 +3,8 @@
 A product-analytics case study on the public [Olist Brazilian e-commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 (99,441 orders, Sep 2016 to Aug 2018). SQL in DuckDB, dashboard in Streamlit.
 
+**Live dashboard:** https://olist-late-delivery-analysis.vercel.app/
+
 ![dashboard](docs/dashboard_reviews.png)
 
 ## Question
