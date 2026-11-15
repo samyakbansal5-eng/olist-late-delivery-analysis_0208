@@ -80,6 +80,10 @@ What is **not** shown: that late delivery causes lower repeat purchase. Stronger
 ## Roadmap
 See [ROADMAP.md](ROADMAP.md): peak-season carrier capacity, review-after-delivery + delay messaging, top-100 late-seller program, lane-aware ETAs.
 
+## Live dashboards
+- **Static version** (`web/index.html`, no server): deploys on Vercel as-is thanks to `vercel.json`. Rebuild it with `python scripts/build_web.py` after re-running the SQL.
+- **Streamlit version** (`app.py`): deploy on [Streamlit Community Cloud](https://share.streamlit.io) with main file `app.py`. It reads only `results/*.csv`, so it runs without the raw data.
+
 ## How to run
 ```bash
 pip install -r requirements.txt
